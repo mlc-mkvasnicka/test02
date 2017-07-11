@@ -1,0 +1,7 @@
+node_modules
+rxjs-bundle
+app/**/*.js
+app/**/*.map
+!app/systemjs.config.js
+npm-debug.log
+debug.log
